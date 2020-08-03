@@ -1,2 +1,3 @@
-# v1
- Documentation for Koishi v1
+# Koishi
+
+Documentation for Koishi v1
