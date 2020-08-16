@@ -2,6 +2,7 @@ const { remove: removeDiacritics } = require('diacritics')
 
 module.exports = context => ({
   title: 'Koishi',
+  base: '/v1/',
   head: [
     ['link', { rel: 'icon', href: `/koishi.png` }],
     // ['link', { rel: 'manifest', href: '/manifest.json' }],
